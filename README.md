@@ -3,7 +3,7 @@
 ## Dev Container Setup
 1. Install Visual Studio Code. download here.
 2. Install Docker Desktop, download here.
-3. Install the Dev Container extension, found here.
+3. Install the Dev Containers extension, found here.
 
 ## Using Dev Container from Git repo
 1. Clone repo to local system  
