@@ -9,7 +9,7 @@
 1. Clone repo to local system  
 2. Open repo folder in VSCode
 3. Hit F1 to open "Command Palette"
-4. Type "Dev Containers: Open Folder in Container" and select 
+4. Type "Dev Containers: Open Folder in Container...." and select 
 5. Select the container folder to be used. 
 6. The VSCode will reload
 7. Once reloaded, the tab to the bottom left will show which container is being used.
