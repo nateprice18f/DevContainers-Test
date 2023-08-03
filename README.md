@@ -1,4 +1,4 @@
-# Dev Container setup and use cases
+# Dev Containers setup and use cases
 
 ## Dev Container Setup
 1. Install Visual Studio Code. download here.
