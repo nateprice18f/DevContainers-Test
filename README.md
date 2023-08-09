@@ -1,15 +1,15 @@
-# Dev Container setup and use cases
+# Dev Containers setup and use cases
 
 ## Dev Container Setup
 1. Install Visual Studio Code. download here.
 2. Install Docker Desktop, download here.
-3. Install the Dev Container extension, found here.
+3. Install the Dev Containers extension, found here.
 
 ## Using Dev Container from Git repo
 1. Clone repo to local system  
 2. Open repo folder in VSCode
 3. Hit F1 to open "Command Palette"
-4. Type "Dev Containers: Open Folder in Container" and select 
+4. Type "Dev Containers: Open Folder in Container...." and select 
 5. Select the container folder to be used. 
 6. The VSCode will reload
 7. Once reloaded, the tab to the bottom left will show which container is being used.

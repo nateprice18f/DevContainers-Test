@@ -3,6 +3,6 @@
     "name": "Nodejs Container",
     "image": "natep18f/container-nodejs-app:6cdc251e9d79781e94bd534fe187e879b6f0aa2c",
     "mounts": [
-        "source=/Users/nathanielprice/Documents/project-tests/nodejs-test-app,target=/app,type=bind"
+        "source=/<localhost location>/project-tests/nodejs-test-app,target=/app,type=bind"
     ]
 }
