@@ -2,5 +2,5 @@
 {
     "_comment": "This uses a prebuilt container for with pa11y installed for site testing. Will mount a local folder to a containers folder." ,
     "name": "Nodejs, npm and pa11y container" ,
-    "image": "natep18f/container-nodejs-tools:281065cd3d13dcb0d65efae6d63624d5c09515ac"
+    "image": "natep18f/container-pa11y:d0576ede0f76186e74b8d93012b92b5006bb0cc3"
 }      

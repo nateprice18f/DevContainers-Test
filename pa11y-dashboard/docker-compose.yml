@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  pa11y:
+    image: natep18f/container-nodejs-app:6cdc251e9d79781e94bd534fe187e879b6f0aa2c
+    ports:
+      - 3000:3000
+    volumes:
+      - .:/pa11y-dashboard:cached
+  mongodb:
+    image: natep18f/container-mongodb-test:c72ce6235c02d152dd7bf356cbd5f0ed1e796534
+    ports:
+      - 27017:27017
+    volumes:
+        - .:/app:cached
+

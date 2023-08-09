@@ -1,0 +1,7 @@
+{
+    "name": "pa11y with mongodb",
+    "dockerComposeFile": "../docker-compose.yml",
+    "service": "pa11y-dashboard",
+    "workspaceFolder": "/workspace"
+
+}

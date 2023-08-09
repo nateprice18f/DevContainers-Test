@@ -1,0 +1,7 @@
+{
+    "name": "MongoDB",
+    "image": "natep18f/container-mongodb-test:c72ce6235c02d152dd7bf356cbd5f0ed1e796534",
+    "mounts": [
+        "source=/Users/nathanielprice/Documents/project-tests/mongodb,target=/data/db,type=bind"
+    ]
+}

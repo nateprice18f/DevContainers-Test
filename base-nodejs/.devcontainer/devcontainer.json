@@ -1,5 +1,8 @@
 {
     "_comment": "This uses a prebuilt nodejs base container for to showcase the use of local code running within a container." ,
     "name": "Nodejs Container",
-    "image": "natep18f/container-test-npm:5933141d6fe06afd0d0efb0407894b99327f6c6a"
+    "image": "natep18f/container-nodejs-app:6cdc251e9d79781e94bd534fe187e879b6f0aa2c",
+    "mounts": [
+        "source=/Users/nathanielprice/Documents/project-tests/nodejs-test-app,target=/app,type=bind"
+    ]
 }
